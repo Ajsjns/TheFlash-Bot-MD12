@@ -22,12 +22,12 @@ let handler = async (m, { conn, text, args, usedPrefix, command }) => {
       'https://envs.sh/wHc.jpg', 
       [['الــمــطـور', `.المطور`]], 
       null, 
-      [['قــنـاة الــبــوت', `https://whatsapp.com/channel/0029VakNAD45EjxrEGdI2b0d`]], 
+      [['قــنـاة الــبــوت', `https://whatsapp.com/channel/0029VajXyEz1yT2Hj5Y5Eh0r`]], 
       m
     );
   } catch (error) {
     console.error(error);
-    m.reply('*مرحبا ضع سؤالك يا اخي 🤡*');
+    m.reply('* مرحبا ضع سؤالك  *');
   }
 };
 
