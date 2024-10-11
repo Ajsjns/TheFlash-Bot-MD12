@@ -43,7 +43,7 @@ conn.relayMessage(m.chat, { viewOnceMessage: { message: { interactiveMessage: { 
 > ˼🤖˹↜ الــبــوت↶
 ╮───────────────────⟢ـ
 ┆⚙️ ↜اسـم الـبـوت↶﹝رزان﹞
-┆🪄 ↜الـمـطـور ↶﹝عاشق التحدي﹞
+┆🪄 ↜الـمـطـور ↶﹝ＳＴＩＶＥＮ﹞
 ┆📌 ↜الـتـشـغـيـل ↶﹝${uptime}﹞
 ┆🎪 ↜الــيــوم ↶﹝${week}﹞
 ┆⌚ ↜الـتـاريـخ ↶﹝${time}﹞
@@ -159,7 +159,7 @@ name: "quick_reply",
                      },
                      {
                name: "cta_url",
-               buttonParamsJson: '{"display_text":"⌈📲╎قـنـاة الــبــوت╎📲⌋","url":"https://whatsapp.com/channel/0029VakNAD45EjxrEGdI2b0d","merchant_url":"https://whatsapp.com/channel/0029VakNAD45EjxrEGdI2b0d"}'
+               buttonParamsJson: '{"display_text":"⌈📲╎قـنـاة الــبــوت╎📲⌋","url":"https://whatsapp.com/channel/0029VajXyEz1yT2Hj5Y5Eh0r","merchant_url":"https://whatsapp.com/channel/0029VajXyEz1yT2Hj5Y5Eh0r"}'
                             }
                         ]
                     }
